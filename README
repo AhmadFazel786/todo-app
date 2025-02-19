@@ -1,56 +1,66 @@
-📌 Responsive Todo App
+iTask - A Minimal To-Do App
+
 🚀 Overview
 
-Excited to share my latest project—a fully responsive Todo App built with React, Vite, and Tailwind CSS! This app provides a clean, intuitive UI to efficiently manage tasks and boost productivity.
+iTask is a simple and efficient to-do app built with React 19, Vite, and Tailwind CSS. This project follows modern best practices and ensures a smooth and fast user experience.
 
-🔥 Features:
-✅ Add, Edit, and Delete Todos
-✅ Mark Todos as Completed
-✅ Local Storage Support (Tasks persist after refresh)
-✅ Responsive Design (Optimized for mobile & desktop)
-✅ Modern UI with React Icons
+🔥 Features
 
-🛠 Tech Stack:
+✅ Minimalistic UI - Clean and simple design.
 
-Frontend: React 19, Vite, Tailwind CSS
-State Management: useState, useEffect
-Icons: React Icons
-Storage: LocalStorage
-Linting: ESLint
-🏗 Setup & Installation:
+⚡ Lightning Fast - Powered by Vite for optimal performance.
 
-bash
-Copy
-Edit
-# Clone the Repository  
-git clone https://github.com/AhmadFazel786/todo-app.git  
-cd todo-app  
+🎨 Styled with Tailwind CSS - Fully responsive and customizable.
 
-# Install Dependencies  
-npm install  
+🔄 React Hooks - Efficient state management.
 
-# Run the Development Server  
-npm run dev  
+🔧 ESLint & Prettier - Clean and maintainable code.
 
-# Build for Production  
-npm run build  
+🚀 Easy Deployment - Deployed via GitHub Pages.
 
+🛠 Tech Stack
 
-💡 How to Use:
-1️⃣ Enter a task in the input field and click "Save"
-2️⃣ Click the checkbox to mark a task as completed
-3️⃣ Use the edit button to modify a task
-4️⃣ Click the delete button to remove a task
-5️⃣ Use the "Show Finished" checkbox to toggle completed tasks
+React 19
 
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
+Vite
 
-📝 License
-This project is open-source and available under the MIT License.
+Tailwind CSS
 
-📢 Let's Connect!
-🔗 GitHub: https://github.com/AhmadFazel786
-🔗 LinkedIn: linkedin.com/in/ahmad-fazel-paknehad-610694270
+ESLint & Prettier
 
+GitHub Pages (for deployment)
 
+📦 Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/AhmadFazel786/todo-app.git
+cd todo-app
+
+Install dependencies:
+
+npm install
+
+Run the app in development mode:
+
+npm run dev
+
+Open http://localhost:5173 to view it in the browser.
+
+Build for production:
+
+npm run build
+
+Deploy to GitHub Pages:
+
+npm run deploy
+
+📝 Contributing
+
+Feel free to submit issues or pull requests! Any feedback is welcome. 🙌
+
+📄 License
+
+This project is licensed under the MIT License.
+
+⭐ Star the repo if you find it useful! Let’s build something awesome together! 🚀
